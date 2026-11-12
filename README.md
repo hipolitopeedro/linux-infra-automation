@@ -1,15 +1,15 @@
-# 🐧 Linux Infrastructure Automation Toolkit
+# Linux Infrastructure Automation Toolkit
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash%20%2F%20Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-> 🇺🇸 **English:** Collection of Bash scripts for Linux server administration, automated backup rotation with integrity verification, service auto-healing watchdog, and system health/security auditing.
+> **English:** Collection of Bash scripts for Linux server administration, automated backup rotation with integrity verification, service auto-healing watchdog, and system health/security auditing.
 >
-> 🇧🇷 **Português:** Conjunto de scripts em Bash para administração de servidores Linux, rotação de backups automatizados com verificação de integridade, watchdog para recuperação automática de serviços e auditoria de saúde/segurança.
+> **Português:** Conjunto de scripts em Bash para administração de servidores Linux, rotação de backups automatizados com verificação de integridade, watchdog para recuperação automática de serviços e auditoria de saúde/segurança.
 
 ---
 
-## 📂 Included Scripts / Scripts Inclusos
+## Included Scripts / Scripts Inclusos
 
 | Script | Description (EN) | Descrição (PT-BR) |
 | :--- | :--- | :--- |
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Usage & Cron Scheduling / Uso e Agendamento no Cron
+## Usage & Cron Scheduling / Uso e Agendamento no Cron
 
 ```bash
 chmod +x scripts/*.sh
